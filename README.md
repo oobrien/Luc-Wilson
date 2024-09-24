@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luc Wilson</h1>
-<h3 align="center">A passionate Geographic Data Science & Spatial Analytics student from the University of Bristol</h3>
+<h3 align="center">A PhD Student at UCL, Suppervised by Prof. Paul Longley and Dr. Junstin van Dijk </h3>
 
-- 🔭 I’m currently working on **creating a geographically weighted neural network to predict London house prices**
+- 🔭 I’m currently working on **Finding my feet with the Salad Money open banking data**
 
-- 🌱 I’m currently learning **neural networking**
+- 🌱 I’m currently learning **The Geography of Personal Finance**
 
 - 📫 How to reach me **le.wilson0411@gmail.com**
 
