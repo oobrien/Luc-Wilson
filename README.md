@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **The Geography of Personal Finance**
 
-- 📫 How to reach me **le.wilson0411@gmail.com**
+- 📫 How to reach me: **le.wilson0411@gmail.com** or **ucfale0@ucl.ac.uk**
 
 <p align="left">
 </p>
