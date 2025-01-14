@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luc Wilson</h1>
-<h3 align="center">A PhD Student at UCL, Suppervised by Prof. Paul Longley and Dr. Junstin van Dijk </h3>
+<h3 align="center">A PhD Student at UCL, supervised by Prof. Paul Longley and Dr. Justin van Dijk </h3>
 
 - 🔭 I’m currently working on **Finding my feet with the Salad Money open banking data**
 
